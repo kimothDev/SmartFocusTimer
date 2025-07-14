@@ -13,8 +13,21 @@ SmartFocusTimer is a Pomodoro-style productivity app built with React Native tha
 - Clean architecture and modular state management for scalability
 
 ## Installation
-Run the following command to clone the repository:
+**Run the following command to clone the repository:**
+- Clone the Repository
    ```bash
+   git clone https://github.com/kimothDev/SmartFocusTimer.git
+   cd SmartFocusTimer
   ```
+- Install Dependencies
+  ```bash
+   npm install
+  ```
+- Run on Android
+  ```bash
+  npx react-native run-android
+  ```
+  Make sure you have Android Studio and an emulator or device connected.
+  
 ## License
 This project is licensed under the AGPL-3.0 license - see the LICENSE file for details.
