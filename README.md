@@ -1,6 +1,6 @@
-#📱 SmartFocusTimer
+****📱 SmartFocusTimer****
 
-SmartFocusTimer is a Pomodoro-style productivity app built with React Native that personalizes focus sessions using machine learning. It leverages Contextual Bandits with Thompson Sampling to recommend optimal focus and break durations based on user behavior and session context.
+SmartFocusTimer is a Pomodoro-style productivity app built with React Native that personalises focus sessions using machine learning. It leverages Contextual Bandits with Thompson Sampling to recommend optimal focus and break durations based on user behaviour and session context.
 
 ***🔑 Key Features***
 
@@ -8,13 +8,13 @@ SmartFocusTimer is a Pomodoro-style productivity app built with React Native tha
 
 - **⏱️ Customizable Pomodoro Timers:** Set your preferred work/break intervals.
 
-- **📊 Progress Tracking:** Visualize your streaks, focus efficiency, and improvement trends.
+- **📊 Progress Tracking:** Visualise your streaks, focus efficiency, and improvement trends.
 
 - **⚙️ Offline-First Architecture:** Designed to work seamlessly even without internet access using SQLite.
 
-- **🔍 Behavior Modeling:** Continuously learns from your focus history to boost productivity.
+- **🔍 Behaviour Modeling:** Continuously learns from your focus history to boost productivity.
 
-***🧠 Tech Stack***
+***🧩 Core Build***
 
 - React Native, SQLite, Contextual Bandits (Thompson Sampling)
 
