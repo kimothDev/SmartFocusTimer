@@ -30,4 +30,4 @@ SmartFocusTimer is a Pomodoro-style productivity app built with React Native tha
   Make sure you have Android Studio and an emulator or device connected.
   
 ## License
-This project is licensed under the AGPL-3.0 license - see the LICENSE file for details.
+This project is licensed under the Apache-2.0 license - see the LICENSE file for details.
