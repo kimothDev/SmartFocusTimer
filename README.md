@@ -3,8 +3,8 @@ SmartFocusTimer is a Pomodoro-style productivity app built with React Native tha
 
 ---
 <img src="https://github.com/user-attachments/assets/99b5143d-55e6-4c8a-86a9-ea8ec86523a8" width="500" />
-<img src="https://github.com/user-attachments/assets/bf6f969e-3fc0-42cd-b735-e6bc3ec336d7" width="600" />
 <img src="https://github.com/user-attachments/assets/edd75225-8ec0-4e00-97cb-beed00fd5745" width="600" />
+<img src="https://github.com/user-attachments/assets/24dac44f-55d8-4ec5-ac2b-84b09d68ec13" width="145"/>
 <img src="https://github.com/user-attachments/assets/9cd45cd7-59d3-469e-b956-fab8134de5d0" width="500" />
 
 
